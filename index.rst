@@ -1,4 +1,4 @@
-Introduction
+Introduction (this was all done by Piotr!)
 =============================
 **Mapel** (map of elections) is a python package that serves for drawing map of elections. It is a testbed of elections to be used
 for various election-related experiments such as testing algorithms or estimating the frequency of a given phenomenon. If you want to run en experiment on a large variaty of elections then mapel is for you!
